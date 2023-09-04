@@ -1,1 +1,3 @@
-# CodeWhiz
+# CodeWhiz - the specialized coding assistant 
+
+We are embarking on the creation of a specialized programming assistant, meticulously fine-tuned for libraries such as PyTorch, TensorFlow, or Dart, FastAIs. This intelligent assistant, accessible through a chat-like interface, is designed to offer tailored guidance, provide access to the latest documentation, and suggest learning resources to users. It will comprehend contextual queries, ensuring deep library expertise, and offer direct links to official documentation, facilitating efficient problem-solving and learning. With continuous updates, personalization options, and a commitment to privacy, this coding assistant aims to significantly enhance the development experience for programmers and serve as an invaluable resource in the ever-evolving landscape of software development.
